@@ -6,7 +6,7 @@ For each of the following situations, decide if you would model using a regressi
 regression: continuous outcome
 
 2.What color car someone is going to buy.
-Classification: discrete outcome
+classification: discrete outcome
 
 3.How many children a family will have.
 classification: discrete outcome
@@ -18,7 +18,7 @@ classification: discrete outcome
 regression: continuous outcome
 
 6.The probability someone will get sick in the next month.
-classficiation: discrete outcome
+classification: discrete outcome
 
 7.Which medicine will work best for a given patient.
-classficiation: discrete outcome
+classification: discrete outcome
